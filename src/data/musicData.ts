@@ -6,7 +6,7 @@ const SAMPLE_MP3_URL_2 = 'https://www.soundhelix.com/examples/mp3/SoundHelix-Son
 const SAMPLE_MP3_URL_3 = 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3';
 
 // Sample Video URL (using placeholder)
-const SAMPLE_VIDEO_URL = 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4';
+// const SAMPLE_VIDEO_URL = 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4';
 
 // Album art images - dreamy/liminal aesthetic
 const albumArts = {
