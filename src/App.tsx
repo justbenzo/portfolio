@@ -128,11 +128,11 @@ function App() {
 
   // Get page title
   const getPageTitle = () => {
-    if (view === 'folders') return 'portfolio';
+    if (view === 'folders') return 'music compositions';
     if (view === 'tracks') return selectedFolder?.name || 'tracks';
     if (view === 'track-detail') return selectedTrack?.title || 'track';
     if (view === 'sfx') return 'sfx work';
-    return 'portfolio';
+    return 'music compositions';
   };
 
   return (
