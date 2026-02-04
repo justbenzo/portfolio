@@ -58,7 +58,7 @@ export function Header({
                   : "text-muted-foreground hover:text-foreground"
               )}
             >
-              [u]
+              [music]
             </button>
             <span className="text-muted-foreground">/</span>
             <button
@@ -70,7 +70,7 @@ export function Header({
                   : "text-muted-foreground hover:text-foreground"
               )}
             >
-              [s]
+              [sfx]
             </button>
           </div>
           
