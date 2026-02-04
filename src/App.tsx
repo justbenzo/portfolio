@@ -143,7 +143,7 @@ function App() {
         onSectionChange={handleSectionChange}
         onBack={view !== 'folders' || section === 'sfx' ? handleBack : undefined}
         pageTitle={getPageTitle()}
-        showBack={view !== 'folders' || section === 'sfx'}
+        // showBack={view !== 'folders' || section === 'sfx'}
       />
 
       {/* Main Content */}
