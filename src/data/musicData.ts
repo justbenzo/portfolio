@@ -234,7 +234,7 @@ export const sfxVideos: SFXVideo[] = [
   {
     id: 'sfx-1',
     title: 'Nexus Demo 1',
-    // thumbnail: videoThumbnails.sfx1,
+    thumbnail: videoThumbnails.sfx1,
     videoUrl: 'https://files.catbox.moe/sq8dhd.mp4',
     duration: '0:05',
     createdAt: '2025-06-15',
@@ -242,7 +242,7 @@ export const sfxVideos: SFXVideo[] = [
   {
     id: 'sfx-2',
     title: 'Nexus Demo 2',
-    // thumbnail: videoThumbnails.sfx2,
+    thumbnail: videoThumbnails.sfx2,
     videoUrl: 'https://files.catbox.moe/m05gm2.mp4',
     duration: '0:26',
     createdAt: '2025-06-15',
