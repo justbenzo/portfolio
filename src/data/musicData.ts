@@ -24,7 +24,7 @@ const albumArts = {
 
 // SFX Video thumbnails
 const videoThumbnails = {
-  sfx1: 'https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=640&h=360&fit=crop',
+  sfx1: 'https://files.catbox.moe/sq8dhd.mp4',
   sfx2: 'https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=640&h=360&fit=crop',
   sfx3: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=640&h=360&fit=crop',
   sfx4: 'https://images.unsplash.com/photo-1516280440614-6697288d5d38?w=640&h=360&fit=crop',
@@ -235,7 +235,7 @@ export const sfxVideos: SFXVideo[] = [
     id: 'sfx-1',
     title: 'Ambient Drone Texture',
     thumbnail: videoThumbnails.sfx1,
-    videoUrl: SAMPLE_VIDEO_URL,
+    videoUrl: 'https://files.catbox.moe/sq8dhd.mp4',
     duration: '0:15',
     createdAt: '2024-02-01',
   },
